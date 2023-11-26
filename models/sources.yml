@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: airbnb
-    schema: raw
+    schema: RAW
     tables:
       - name: listings
         identifier: raw_listings
